@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thiago Brito 🙋🏻‍♂️
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/thiago-da-silva-brito-bba2b8251)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thhiago369@gmail.com)[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/tibirito)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-da-silva-brito-bba2b8251/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thhiago369@gmail.com)[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/tibirito)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-S-Brito&show_icons=true&theme=dracula)
 
